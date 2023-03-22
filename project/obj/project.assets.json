@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Atölye Dersleri\\Web Geliştirme\\mentor\\project\\project.csproj",
+      "projectUniqueName": "E:\\Atölye Dersleri\\ASP.NET\\Mentor\\project\\project.csproj",
       "projectName": "project",
-      "projectPath": "E:\\Atölye Dersleri\\Web Geliştirme\\mentor\\project\\project.csproj",
+      "projectPath": "E:\\Atölye Dersleri\\ASP.NET\\Mentor\\project\\project.csproj",
       "packagesPath": "C:\\Users\\Cinar\\.nuget\\packages\\",
-      "outputPath": "E:\\Atölye Dersleri\\Web Geliştirme\\mentor\\project\\obj\\",
+      "outputPath": "E:\\Atölye Dersleri\\ASP.NET\\Mentor\\project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Users\\Cinar\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"

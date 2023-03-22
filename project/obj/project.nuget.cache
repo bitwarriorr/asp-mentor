@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8uDM/+RwGWKOzpGUZQPumr5xrU4V/TSj0utctI/NXw8FzhFtZNg3SFJThv/NLvXeDx85TVjfBr28zEuenM0d0w==",
+  "dgSpecHash": "fsBgHCBhXICfTYTuFDK5eStkGvVjUyyM3Dn8WMOKiVNAErITnFlqRF7myCeZt3tnZwh5EyCumudhfYH8y1QJRg==",
   "success": true,
-  "projectFilePath": "E:\\Atölye Dersleri\\Web Geliştirme\\mentor\\project\\project.csproj",
+  "projectFilePath": "E:\\Atölye Dersleri\\ASP.NET\\Mentor\\project\\project.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
