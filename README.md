@@ -1,5 +1,5 @@
 # asp-mentor
-asp.net mvc project with full function
+asp.net mvc project with .net 7
 
 ![Home](https://user-images.githubusercontent.com/126814579/227017132-c0fdf2ac-9f33-4b0d-8df3-aa8e615755d8.png)
 ![About](https://user-images.githubusercontent.com/126814579/227017140-d03ff3c9-3550-4a49-892f-16f8e4d7b91b.png)
